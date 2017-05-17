@@ -34,5 +34,5 @@ Access the following URLs.
 ~~~
 http://localhost:8080/person-rs-web/
 or,
-http://localhost:8080/person-web/
+http://localhost:8080/person-rs-client-web/
 ~~~
